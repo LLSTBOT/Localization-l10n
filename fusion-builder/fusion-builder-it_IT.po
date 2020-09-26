@@ -24,13 +24,13 @@ msgstr ""
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:67
 #: shortcodes/fusion-container.php:2397
 msgid "Draft"
-msgstr ""
+msgstr "Bozza"
 
 #. translators: The title.
 #: front-end/class-fusion-builder-front.php:1069
 #: inc/class-fusion-template-builder-table.php:283
 msgid "Edit %s with Avada Live"
-msgstr ""
+msgstr "Modifica %s con Avada Live"
 
 #: front-end/class-fusion-builder-front.php:1069
 #: inc/class-fusion-builder-gutenberg.php:177
@@ -104,7 +104,7 @@ msgstr "% Commenti"
 #: front-end/templates/element-library.php:13
 #: inc/lib/inc/fusion-app/helpers.php:237 shortcodes/fusion-search.php:349
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: front-end/templates/context-menu-inline.php:13
 #: inc/class-fusion-builder-options-panel.php:61
@@ -233,7 +233,7 @@ msgstr ""
 #: front-end/templates/front-end-container.php:59
 #: front-end/templates/front-end-container.php:117
 msgid "Add Container"
-msgstr ""
+msgstr "Aggiungi Container"
 
 #: front-end/templates/front-end-child-element.php:14
 #: front-end/templates/front-end-element.php:22
@@ -247,17 +247,17 @@ msgstr ""
 #: front-end/templates/front-end-parent-element.php:24
 #: front-end/templates/nested-row.php:19 inc/lib/inc/fusion-app/helpers.php:256
 msgid "Clone Element"
-msgstr "Clona elemento"
+msgstr "Clona Elemento"
 
 #: front-end/templates/front-end-child-element.php:20
 msgid "Add Child Element"
-msgstr ""
+msgstr "Aggiungi Elemento Child"
 
 #: front-end/templates/front-end-column.php:31
 #: front-end/templates/nested-column.php:29
 #: inc/lib/inc/fusion-app/helpers.php:226
 msgid "Column Options"
-msgstr ""
+msgstr "Opzioni Colonne"
 
 #: front-end/templates/front-end-column.php:32
 #: front-end/templates/front-end-row.php:16
@@ -265,26 +265,26 @@ msgstr ""
 #: front-end/templates/nested-column.php:30
 #: front-end/templates/nested-row.php:50
 msgid "Add Columns"
-msgstr ""
+msgstr "Aggiungi Colonne"
 
 #: front-end/templates/front-end-column.php:33
 #: front-end/templates/nested-column.php:31
 msgid "Column Size"
-msgstr ""
+msgstr "Dimensione Colonna"
 
 #: front-end/templates/front-end-column.php:34
 #: front-end/templates/nested-column.php:32
 msgid "Clone Column"
-msgstr ""
+msgstr "Clona Colonna"
 
 #: front-end/templates/front-end-column.php:35
 msgid "Save Column"
-msgstr ""
+msgstr "Salva Colonna"
 
 #: front-end/templates/front-end-column.php:36
 #: front-end/templates/nested-column.php:33
 msgid "Delete Column"
-msgstr ""
+msgstr "Elimina Colonna"
 
 #: front-end/templates/front-end-column.php:37
 #: front-end/templates/nested-column.php:34
@@ -298,17 +298,17 @@ msgstr ""
 #: front-end/templates/front-end-container.php:113
 #: inc/lib/inc/fusion-app/helpers.php:215
 msgid "Delete Container"
-msgstr "Elimina contenitore"
+msgstr "Elimina Contenitore"
 
 #: front-end/templates/front-end-container.php:114
 #: inc/lib/inc/fusion-app/helpers.php:214
 msgid "Save Container"
-msgstr "Salva contenitore"
+msgstr "Salva Contenitore"
 
 #: front-end/templates/front-end-container.php:115
 #: inc/lib/inc/fusion-app/helpers.php:213
 msgid "Clone Container"
-msgstr "Contenitore del clone"
+msgstr "Clona Contenitore"
 
 #: front-end/templates/front-end-container.php:116
 #: inc/lib/inc/fusion-app/helpers.php:211
@@ -332,7 +332,7 @@ msgstr ""
 
 #: front-end/templates/front-end-shortcuts.php:16
 msgid "IMPORTANT NOTE:"
-msgstr ""
+msgstr "NOTA IMPORTANTE:"
 
 #. translators: Link attributes.
 #: front-end/templates/front-end-shortcuts.php:21
@@ -384,23 +384,23 @@ msgstr "Annulla"
 
 #: front-end/templates/front-end-shortcuts.php:98
 msgid "Desktop View"
-msgstr ""
+msgstr "Vista Desktop"
 
 #: front-end/templates/front-end-shortcuts.php:107
 msgid "Mobile View Potrait"
-msgstr ""
+msgstr "Vista Mobile Verticale"
 
 #: front-end/templates/front-end-shortcuts.php:116
 msgid "Mobile View Landscape"
-msgstr ""
+msgstr "Vista Mobile Orizzonatale"
 
 #: front-end/templates/front-end-shortcuts.php:125
 msgid "Tablet View Potrait"
-msgstr ""
+msgstr "Vista Tablet Verticale"
 
 #: front-end/templates/front-end-shortcuts.php:134
 msgid "Tablet View Landscape"
-msgstr ""
+msgstr "Vista Tablet Orizzontale"
 
 #: front-end/templates/front-end-shortcuts.php:143
 #: front-end/templates/front-end-toolbar.php:83
@@ -414,7 +414,7 @@ msgstr ""
 
 #: front-end/templates/front-end-shortcuts.php:161
 msgid "Custom CSS Panel"
-msgstr ""
+msgstr "Pannello Custom CSS"
 
 #: front-end/templates/front-end-shortcuts.php:172
 msgid "Exit Builder To Back-End"
@@ -441,12 +441,12 @@ msgstr ""
 #: inc/class-fusion-builder-gutenberg.php:171
 #: inc/lib/inc/fusion-app/helpers.php:526
 msgid "Add New"
-msgstr ""
+msgstr "Aggiungi nuovo"
 
 #: front-end/templates/front-end-toolbar.php:104
 #: front-end/templates/front-end-toolbar.php:105
 msgid "Save as Template"
-msgstr ""
+msgstr "Salva come Template"
 
 #: front-end/templates/fusion-recent-posts.php:131
 #: shortcodes/fusion-blog.php:249 shortcodes/fusion-blog.php:838
@@ -457,11 +457,11 @@ msgstr "Carica altri articoli"
 #: front-end/templates/fusion-search.php:16
 #: inc/lib/inc/class-fusion-searchform.php:66
 msgid "Search for:"
-msgstr ""
+msgstr "Cerca:"
 
 #: front-end/templates/fusion-video.php:22 shortcodes/fusion-video.php:141
 msgid "Sorry, your browser doesn't support embedded videos."
-msgstr ""
+msgstr "Scusa, il tuo browser non supporta i video incorporati"
 
 #: front-end/templates/nested-row.php:20
 msgid "Open Nested Columns"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: front-end/templates/nested-row.php:32
 msgid "Finished"
-msgstr ""
+msgstr "Finito"
 
 #: front-end/templates/nested-row.php:53 inc/lib/inc/fusion-app/helpers.php:358
 msgid "To Add Elements, You Must First Add a Column"
@@ -6706,7 +6706,7 @@ msgstr ""
 #: inc/lib/inc/fusion-app/helpers.php:531 shortcodes/components/related.php:313
 #: shortcodes/components/related.php:656
 msgid "Related Posts"
-msgstr ""
+msgstr "Articoli simili"
 
 #: inc/lib/inc/fusion-app/helpers.php:532 shortcodes/components/related.php:316
 msgid "Related Projects"
@@ -6821,7 +6821,7 @@ msgstr ""
 
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:170
 msgid "Switch Language"
-msgstr ""
+msgstr "Cambia lingua"
 
 #: inc/lib/inc/fusion-app/templates/modal-dialog-more.php:18
 msgid "Resize Window"
